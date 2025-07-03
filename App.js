@@ -1,0 +1,1 @@
+import React from 'react'; const App = () => (<div><h1>Hire Me – Pranjal Dubey</h1><p>Data Analyst Portfolio</p></div>); export default App;
